@@ -1,0 +1,54 @@
+{
+  "Week 1": {
+    "Title": "Python Basics",
+    "Topics": [
+      {
+        "Title": "Syntax",
+        "Subtopics": [
+          "Variables",
+          "Data Types"
+        ],
+        "Resources": [
+          {
+            "title": "Here are two beginner-friendly resources to learn Python syntax:\n\n1. Codecademy - Python Syntax Guide for Beginners\n   - URL: https://www.codecademy.com/article/learn-python-python-syntax\n   - Highlights: Explains Python's clear and readable syntax, use of indentation instead of curly braces or semicolons, making code clean and easy to follow.\n\n2. W3Schools - Python Syntax\n   - URL: https://www.w3schools.com/python/python_syntax.asp\n   - Highlights: Covers Python indentation, variables, comments, and includes exercises and videos to practice and understand Python syntax concepts.\n\nThese resources should help you get started with Python syntax effectively. Let me know if you need more specific topics or additional resources!",
+            "url": "",
+            "type": "Text"
+          }
+        ]
+      },
+      {
+        "Title": "Control Flow",
+        "Subtopics": [
+          "If-Else",
+          "Loops"
+        ],
+        "Resources": [
+          {
+            "title": "Here are some beginner-friendly resources to learn Control Flow in Python:\n\n1. Codecademy - Learn Python 3: Control Flow Cheatsheet\n   URL: https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-control-flow/cheatsheet\n   This resource provides an easy-to-understand cheatsheet on Python control flow concepts such as if statements, else, and operators.\n\n2. Reddit discussion on best resources for Python control flow for beginners\n   URL: https://www.reddit.com/r/learnpython/comments/cqgusu/best_resource_to_learn_python_control_flowgeneral/\n   This thread contains recommendations and insights from learners about the best resources to understand Python control flow and logic for beginners.\n\nThese resources are well-suited for those new to programming with Python and looking to grasp control flow fundamentals. Would you like more detailed tutorials or practice exercises?",
+            "url": "",
+            "type": "Text"
+          }
+        ]
+      }
+    ]
+  },
+  "Week 2": {
+    "Title": "Data Structures",
+    "Topics": [
+      {
+        "Title": "Lists and Tuples",
+        "Subtopics": [
+          "List Operations",
+          "Tuple Basics"
+        ],
+        "Resources": [
+          {
+            "title": "Here are some beginner-friendly resources to learn Lists and Tuples in Python:\n\nFor Lists:\n1. A beginner-friendly daily Python List series on Reddit that breaks down core list concepts in simple, visual ways: https://www.reddit.com/r/PythonLearning/comments/1lzlb4n/mastering_python_lists_a_beginnerfriendly_series/\n2. Python.Org offers official language documentation and beginner tutorials including lists: https://rivery.io/blog/free-resources-learn-python/\n\nFor Tuples:\n1. Codecademy has a detailed page on Tuples in Python covering creation, usage, and properties: https://www.codecademy.com/resources/docs/python/tuples\n2. A beginner tutorial video on Tuples in Python on YouTube: https://www.youtube.com/watch?v=cDmFNDfOvzY\n\nThese resources should give you a good start in learning Lists and Tuples in Python. Let me know if you want more specific tutorials or examples!",
+            "url": "",
+            "type": "Text"
+          }
+        ]
+      }
+    ]
+  }
+}
