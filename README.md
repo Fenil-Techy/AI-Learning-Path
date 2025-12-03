@@ -10,7 +10,7 @@ Built with **Python**, **LangChain**, **Streamlit**, and **OpenAI**.
 
 ---
 
-##Screenshot
+## Screenshot
 <img width="1853" height="849" alt="Screenshot 2025-12-03 171543" src="https://github.com/user-attachments/assets/ecbcbfb6-9edd-4b3b-8d90-e0043e5fa688" />
 
 
